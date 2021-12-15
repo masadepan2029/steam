@@ -1,3 +1,3 @@
 # steam
 
-https://steamcommunity.com/comment/Recommendation/formattinghelp
+[formatting Steam](https://steamcommunity.com/comment/Recommendation/formattinghelp).
